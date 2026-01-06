@@ -14,9 +14,11 @@
 
 5. Comments & Syntax
 
-<img width="1148" height="772" alt="image" src="https://github.com/user-attachments/assets/d2322bdc-02d6-481c-b12a-15389e00163c" />
+<img width="1148" height="772" alt="image" src="https://github.com/user-attachments/assets/a440fa0d-4755-48f9-a5f6-ea08618c5b81" />
 
-<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/286c2d40-0b2d-41c9-af29-5f35e5d40221" />
+
+<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/0a5f9140-25d5-4ff0-8799-0dbc7e72091b" />
+
 
 # Python 
 
