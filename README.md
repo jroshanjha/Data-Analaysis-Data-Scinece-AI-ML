@@ -71,6 +71,12 @@
 
 ### 📌 Beginner Practice Questions
 
+- Print first and last character of a string
+
+- Access middle element using indexing
+
+- Use negative indexing to print last 2 elements
+
 - Print your name and age
 
 - Take input from user and display it
