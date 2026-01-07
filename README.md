@@ -92,4 +92,15 @@
 4. Ask user age and display birth year.
 5. Print Hello without moving to a new line.
 
+# Explicit Typecasting
+Explicit typecasting is performed when the programmer explicitly converts one data type to another using built-in functions. This is also known as type conversion.
 
+###  Common Typecasting Functions
+1. int(): Converts a value to an integer.
+2. float(): Converts a value to a float.
+3. str(): Converts a value to a string.
+4. list(): Converts a value to a list.
+5. tuple(): Converts a value to a tuple.
+6. set(): Converts a value to a set.
+7. dict(): Converts a value to a dictionary (from a list of key-value pairs).
+8. bool(): Converts a value to a boolean.
