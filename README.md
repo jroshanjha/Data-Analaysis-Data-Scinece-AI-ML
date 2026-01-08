@@ -104,3 +104,10 @@ Explicit typecasting is performed when the programmer explicitly converts one da
 6. set(): Converts a value to a set.
 7. dict(): Converts a value to a dictionary (from a list of key-value pairs).
 8. bool(): Converts a value to a boolean.
+
+
+### Number System 
+1. Find the distinct Value from a list
+2. 244 convert into binary , Octa , hexa 
+3. What kind of number system represent as a 0x10
+4. What is Octa , Hexa number in number system ? 
