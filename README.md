@@ -110,4 +110,64 @@ Explicit typecasting is performed when the programmer explicitly converts one da
 1. Find the distinct Value from a list
 2. 244 convert into binary , Octa , hexa 
 3. What kind of number system represent as a 0x10
-4. What is Octa , Hexa number in number system ? 
+4. What is Octa , Hexa number in number system ?
+
+## Operators 
+1. Write a program to add two numbers.
+
+2. Find the remainder when a number is divided by 7.
+
+3. Calculate the square and cube of a number.
+
+4. Take two numbers and perform all arithmetic operations.
+
+5. Use // operator and explain the difference between / and //.
+
+6. Write a program to calculate compound power using **.
+
+7. What is the output of: <br>
+print(10 / 3, 10 // 3)
+
+8. Explain operator precedence with an example.
+
+9. Check whether two numbers are equal.
+
+10. Check if a number is greater than 100.
+
+11. Compare age of two persons.
+
+12. Write a program to check if a number lies between 10 and 50.
+
+13. Compare two strings and explain the result.
+
+14. What is the output? <br>
+print(5 == 5.0)
+
+15. Difference between == and is.
+
+16. Check if a number is positive and even.
+
+17. Check if a user is eligible to vote (age ≥ 18).
+
+18. Validate username and password using logical operators.
+
+19. Write a program using not operator.
+
+20. What is the output? <br>
+print(True and False or True)
+
+21. Explain short-circuiting in Python.
+
+22. Assign a value to a variable and print it.
+
+23. Increase a number by 10 using +=.
+
+25. Perform all assignment operators on a variable.
+
+26. Swap two numbers using assignment operators.
+
+27. What is the output? <br>
+x = 5 <br>
+x += 3 <br>
+x *= 2 <br>
+print(x) <br>
