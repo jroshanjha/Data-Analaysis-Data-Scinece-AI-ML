@@ -171,3 +171,30 @@ x = 5 <br>
 x += 3 <br>
 x *= 2 <br>
 print(x) <br>
+
+# 2026 - 01 - 10 
+- Convert a number to binary and apply bitwise OR.
+- Explain difference between & and and.
+
+# Identity Operators 
+1. Compare two variables using is.
+2. Check if two lists are identical.
+3. Explain is vs == with example.
+4. Check identity of integers and strings.
+5. What is the output?
+a = 256 <br>
+b = 256 <br>
+print(a is b) <br>
+
+# Membership Operators
+1. Check if a character exists in a string.
+
+2. Check if an element is present in a list.
+
+3. Search a word in a sentence.
+
+4. Check if a key exists in a dictionary.
+
+5. Difference between in and ==.
+6. What is the output ? <br>
+print(5 & 3 ) 
